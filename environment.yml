@@ -1,0 +1,7 @@
+name: JTCompile-environment
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - obspy
